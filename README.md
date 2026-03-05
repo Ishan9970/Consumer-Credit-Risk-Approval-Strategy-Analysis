@@ -13,7 +13,7 @@ Explore the interactive version here:
 
 ### Dashboard Preview
 
-![Credit Risk Dashboard](dashboard/credit-risk-dashboard.png)
+![Credit Risk Dashboard](dashboard.png)
 
 ---
 
